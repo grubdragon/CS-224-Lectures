@@ -1,4 +1,5 @@
 Physical layer: Overview
+============================
 
 * The following are some functions that are performed by the link
   layer and physical layer:
